@@ -1,9 +1,9 @@
 "sites": [
   {
-    "key": "FFan_ziyuan",
-    "name": "👌 非凡资源",
+    "key": "Liangzi_ziyuan",
+    "name": "👌 量子资源",
     "type": 1, 
-    "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
