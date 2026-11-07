@@ -55,6 +55,15 @@
       "filterable": 1
     },
     {
+      "key": "hongniuzy",
+      "name": "红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yayazy",
       "name": "鸭鸭资源",
       "type": 1,
