@@ -82,6 +82,15 @@
       "filterable": 1
     },
     {
+      "key": "subozy",
+      "name": "速播资源",
+      "type": 1,
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "yayazy",
       "name": "鸭鸭资源",
       "type": 1,
