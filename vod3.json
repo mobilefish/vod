@@ -67,7 +67,7 @@
       "key": "tianyazy",
       "name": "天涯资源",
       "type": 1,
-      "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://ty.tyyszy5.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -86,6 +86,33 @@
       "name": "速播资源",
       "type": 1,
       "api": "https://subocaiji.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "diyiyingshi",
+      "name": "第一影视",
+      "type": 1,
+      "api": "https://caiji.diyizy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xlzy",
+      "name": "新浪资源",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsuzy",
+      "name": "光速资源",
+      "type": 1,
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
