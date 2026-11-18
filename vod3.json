@@ -22,7 +22,7 @@
       "key": "taopian",
       "name": "淘片资源",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json",
+      "api": "https://taopianapi.com/cjapi/sda/vod/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
