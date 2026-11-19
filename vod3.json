@@ -13,7 +13,7 @@
       "key": "liangzi",
       "name": "量子资源",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json",
+      "api": "https://lzzyapi.com/api.php/provide/vod/from/lzm3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
