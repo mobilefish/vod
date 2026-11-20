@@ -118,10 +118,10 @@
       "filterable": 1
     },
     {
-      "key": "guangsuzy",
-      "name": "光速资源",
+      "key": "okzy",
+      "name": "OK资源",
       "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "api": "https://api.okzyw.net/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
