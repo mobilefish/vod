@@ -4,8 +4,10 @@
 payload:
   #屏蔽腾讯隐私获取
   - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net
   - DOMAIN-KEYWORD,pcdnwxstat
   #屏蔽一加colorOS内置欢太
+  - DOMAIN,obus-dc3012-cn.heytapmobi.com
   - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,heytap.cn
   - DOMAIN-SUFFIX,heytap.com
