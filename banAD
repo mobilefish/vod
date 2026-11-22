@@ -1,0 +1,27 @@
+# NAME:使用DNS去广告
+# AUTHOR: none
+# UPDATED: 2025-06-06 09:17:42
+payload:
+  #屏蔽腾讯隐私获取
+  - DOMAIN-SUFFIX,beacon.qq.com
+  - DOMAIN-KEYWORD,pcdnwxstat
+  #屏蔽一加colorOS内置欢太
+  - DOMAIN-SUFFIX,heytapmobi.com
+  - DOMAIN-SUFFIX,heytap.cn
+  - DOMAIN-SUFFIX,heytap.com
+  - DOMAIN-SUFFIX,heytapcloud.cn
+  - DOMAIN-SUFFIX,heytapcloud.com
+  - DOMAIN-SUFFIX,heytapcs.com
+  - DOMAIN-SUFFIX,heytapdownload.com
+  - DOMAIN-SUFFIX,heytapimage.com
+  - DOMAIN-SUFFIX,heytapugc.com
+  #ColorOS系统更新
+  - DOMAIN-SUFFIX,ota.oppo.com
+  - DOMAIN-SUFFIX,ota.coloros.com
+  - DOMAIN-SUFFIX,otadirty.coloros.com
+  - DOMAIN-KEYWORD,ota.oppomobile.com
+  - DOMAIN,ota-g.oppo.com
+  - DOMAIN,oppota.com
+  - DOMAIN-SUFFIX,coloros.com
+  - DOMAIN-SUFFIX,coloros.net
+  - DOMAIN,component-ota-cn.allawntech.com
