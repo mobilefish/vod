@@ -8,6 +8,7 @@ payload:
   - DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN-KEYWORD,pcdnwx
+  #安卓手机内置探针组件上报地址
   - DOMAIN-SUFFIX,fxltsbl.com
   - DOMAIN,dm.wo.com.cn
   - DOMAIN,zzhc.vnet.cn
