@@ -8,6 +8,14 @@ payload:
   - DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN-KEYWORD,pcdnwx
+  - DOMAIN-SUFFIX,fxltsbl.com
+  - DOMAIN,dm.wo.com.cn
+  - DOMAIN,zzhc.vnet.cn
+  - DOMAIN,typdm.tydevice.com
+  - DOMAIN,flash.sec.miui.com
+  - DOMAIN,fraud-detection.engine.miui.com
+  - DOMAIN-SUFFIX,caict.ac.cn
+  - DOMAIN-SUFFIX,weizhi.com
   #屏蔽一加colorOS内置欢太
   - DOMAIN,obus-dc3012-cn.heytapmobi.com
   - DOMAIN-SUFFIX,heytapmobi.com
