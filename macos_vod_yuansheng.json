@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "山东移动直播",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/mobilefish/vod/refs/heads/main/HeBingOK.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
