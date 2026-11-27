@@ -1,6 +1,4 @@
 # NAME:使用DNS去广告
-# AUTHOR: none
-# UPDATED: 2025-06-06 09:17:42
 payload:
   #屏蔽腾讯隐私获取
   - DOMAIN-SUFFIX,beacon.qq.com
@@ -8,6 +6,8 @@ payload:
   - DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN-KEYWORD,pcdnwx
+  #屏蔽时间服务器
+  - DOMAIN,pool.ntp.org
   #安卓手机内置探针组件上报地址
   - DOMAIN-SUFFIX,fxltsbl.com
   - DOMAIN,dm.wo.com.cn
