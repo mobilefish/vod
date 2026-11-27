@@ -7,7 +7,7 @@ payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN-KEYWORD,pcdnwx
   #屏蔽时间服务器
-  - DOMAIN,pool.ntp.org
+  - DOMAIN-SUFFIX,ntp.org
   #安卓手机内置探针组件上报地址
   - DOMAIN-SUFFIX,fxltsbl.com
   - DOMAIN,dm.wo.com.cn
